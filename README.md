@@ -6,4 +6,4 @@ If there is no match then no countries found message will be shown.I have added 
 ### `Demo`
 
 Runs the app in the development mode.\
-Open [https://web-platform-gshurp.stackblitz.io/](https://web-platform-gshurp.stackblitz.io/) to view it in your browser.
+Open [[https://web-platform-gshurp.stackblitz.io/](https://stackblitz.com/edit/web-platform-gshurp?file=index.html)]([https://web-platform-gshurp.stackblitz.io/](https://stackblitz.com/edit/web-platform-gshurp?file=index.html)) to view it in your browser.
